@@ -8,4 +8,4 @@ flask_apscheduler
 Werkzeug
 itsdangerous
 
-guinicorn
+gunicorn
