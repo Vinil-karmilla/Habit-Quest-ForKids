@@ -4,7 +4,7 @@ Flask-WTF
 Flask-Mail
 Jinja2
 flask_apscheduler
-sqlite3
+
 Werkzeug
 itsdangerous
 smtplib
