@@ -7,6 +7,5 @@ flask_apscheduler
 
 Werkzeug
 itsdangerous
-smtplib
 
 guinicorn
